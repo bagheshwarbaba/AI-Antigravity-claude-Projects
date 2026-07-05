@@ -1,0 +1,47 @@
+{
+  "payments": [
+    {
+      "id": "4b08d265-eed3-4b21-a5a1-0fcd4ab2db1a",
+      "userId": "68d6f8e8-1755-4d60-a074-813250600ac1",
+      "name": "GPAY",
+      "type": "upi",
+      "fee": 0,
+      "speed": 9,
+      "security": 8,
+      "availability": 10,
+      "rewards": 2,
+      "reliability": 7.5,
+      "description": "",
+      "createdAt": "2026-04-18T06:50:39.726Z"
+    },
+    {
+      "id": "bf76ac07-d3b7-4f7d-992b-71393746bdc2",
+      "userId": "68d6f8e8-1755-4d60-a074-813250600ac1",
+      "name": "GPAY",
+      "type": "upi",
+      "fee": 0,
+      "speed": 9,
+      "security": 8,
+      "availability": 10,
+      "rewards": 2,
+      "reliability": 7.5,
+      "description": "",
+      "createdAt": "2026-04-18T06:55:59.433Z"
+    },
+    {
+      "id": "506161ce-9628-4fe7-87d7-d80704880cbb",
+      "userId": "68d6f8e8-1755-4d60-a074-813250600ac1",
+      "name": "GPAY",
+      "type": "upi",
+      "fee": 0,
+      "speed": 9,
+      "security": 8,
+      "availability": 10,
+      "rewards": 2,
+      "reliability": 7.5,
+      "description": "",
+      "createdAt": "2026-04-18T06:56:04.323Z"
+    }
+  ],
+  "history": []
+}

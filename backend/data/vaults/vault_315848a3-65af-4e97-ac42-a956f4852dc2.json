@@ -1,0 +1,19 @@
+{
+  "payments": [
+    {
+      "id": "b6a75317-8a2e-427f-bac0-d362dbaa6293",
+      "userId": "315848a3-65af-4e97-ac42-a956f4852dc2",
+      "name": "T",
+      "type": "upi",
+      "fee": 0,
+      "speed": 7,
+      "security": 7,
+      "availability": 8,
+      "rewards": 5,
+      "reliability": 7,
+      "description": "",
+      "createdAt": "2026-04-18T06:54:08.993Z"
+    }
+  ],
+  "history": []
+}

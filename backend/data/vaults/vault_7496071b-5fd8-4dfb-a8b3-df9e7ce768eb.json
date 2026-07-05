@@ -1,0 +1,19 @@
+{
+  "payments": [
+    {
+      "id": "40196d79-8ad2-4c43-a372-c25fcfe0a915",
+      "userId": "7496071b-5fd8-4dfb-a8b3-df9e7ce768eb",
+      "name": "PhonePe UPI",
+      "type": "upi",
+      "fee": 0,
+      "speed": 7,
+      "security": 7,
+      "availability": 8,
+      "rewards": 5,
+      "reliability": 7,
+      "description": "Fast and secure UPI payments.",
+      "createdAt": "2026-04-17T20:57:12.004Z"
+    }
+  ],
+  "history": []
+}

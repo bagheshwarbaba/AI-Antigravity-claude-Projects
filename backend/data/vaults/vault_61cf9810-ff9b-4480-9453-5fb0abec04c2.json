@@ -1,0 +1,19 @@
+{
+  "payments": [
+    {
+      "id": "1dab2268-49d4-4cd3-b817-642f558d5937",
+      "userId": "61cf9810-ff9b-4480-9453-5fb0abec04c2",
+      "name": "Test UPI",
+      "type": "upi",
+      "fee": 0,
+      "speed": 7,
+      "security": 7,
+      "availability": 8,
+      "rewards": 5,
+      "reliability": 7,
+      "description": "",
+      "createdAt": "2026-04-18T07:01:10.549Z"
+    }
+  ],
+  "history": []
+}

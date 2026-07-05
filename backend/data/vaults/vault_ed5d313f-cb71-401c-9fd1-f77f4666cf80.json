@@ -1,0 +1,47 @@
+{
+  "payments": [
+    {
+      "id": "67d11b3f-f7b3-440a-a85d-1dde591ca8ca",
+      "userId": "ed5d313f-cb71-401c-9fd1-f77f4666cf80",
+      "name": "PhonePe UPI",
+      "type": "upi",
+      "fee": 0,
+      "speed": 8,
+      "security": 9,
+      "availability": 8.5,
+      "rewards": 3.5,
+      "reliability": 7,
+      "description": "",
+      "createdAt": "2026-04-18T07:08:03.442Z"
+    },
+    {
+      "id": "f8cced69-b5ed-4aee-8e8e-c643d6a628c8",
+      "userId": "ed5d313f-cb71-401c-9fd1-f77f4666cf80",
+      "name": "HDFC Credit Card",
+      "type": "creditcard",
+      "fee": 5,
+      "speed": 8,
+      "security": 10,
+      "availability": 10,
+      "rewards": 7,
+      "reliability": 8,
+      "description": "",
+      "createdAt": "2026-04-18T07:08:03.867Z"
+    },
+    {
+      "id": "bfdca466-a327-4af4-af47-82d3e47df758",
+      "userId": "ed5d313f-cb71-401c-9fd1-f77f4666cf80",
+      "name": "BOB Debit Card",
+      "type": "debitcard",
+      "fee": 2.9,
+      "speed": 7.5,
+      "security": 10,
+      "availability": 9,
+      "rewards": 4,
+      "reliability": 8,
+      "description": "",
+      "createdAt": "2026-04-18T07:08:04.292Z"
+    }
+  ],
+  "history": []
+}
